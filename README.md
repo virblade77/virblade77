@@ -1,8 +1,8 @@
-- 👋 Hi, the name is Angi.
-- 👀 I’m interested in coding and trying to learn all the programming languages that are popular used.
-- 🌱 I'v learned .Net Core MVC and Visual Studio IDE.
-- 💞️ I look for a role of Data Entry and Analyst, IT Technician and Dotnet Programmer.
-- 📫 You might reach me out through email yiyang.angi@gmail.com.
+- 👋 Hi, my name is Angi.
+- 👀 I’m a big fan of data collection and anylasis.
+- 🌱 I'v learned JavaScript, C#, Python, .Net Core MVC and SQL.
+- 💞️ I look for a data related role, IT Technician or .Net Programmer.
+- 📫 Please reach me out through my email - yiyang.angi@gmail.com.
 
 <!---
 virblade77/virblade77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
